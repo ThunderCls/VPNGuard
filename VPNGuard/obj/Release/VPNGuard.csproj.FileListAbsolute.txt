@@ -1,0 +1,9 @@
+E:\GITHUB Projects\VPNGuard\VPNGuard\bin\Release\VPNGuard.exe.config
+E:\GITHUB Projects\VPNGuard\VPNGuard\bin\Release\VPNGuard.exe
+E:\GITHUB Projects\VPNGuard\VPNGuard\bin\Release\VPNGuard.pdb
+E:\GITHUB Projects\VPNGuard\VPNGuard\obj\Release\VPNGuard.Form1.resources
+E:\GITHUB Projects\VPNGuard\VPNGuard\obj\Release\VPNGuard.Properties.Resources.resources
+E:\GITHUB Projects\VPNGuard\VPNGuard\obj\Release\VPNGuard.csproj.GenerateResource.cache
+E:\GITHUB Projects\VPNGuard\VPNGuard\obj\Release\VPNGuard.csproj.CoreCompileInputs.cache
+E:\GITHUB Projects\VPNGuard\VPNGuard\obj\Release\VPNGuard.exe
+E:\GITHUB Projects\VPNGuard\VPNGuard\obj\Release\VPNGuard.pdb
